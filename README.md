@@ -1,2 +1,2 @@
 ### Main repo
-Github Pages Link: [l1ghthouse-test.github.io](l1ghthouse-test.github.io)
+Github Pages Link: [https://senorgeese.github.io/l1ghthouse-test.github.io/](https://senorgeese.github.io/l1ghthouse-test.github.io/)
